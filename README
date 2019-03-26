@@ -1,3 +1,10 @@
+The HierArchical Presenting Problem ontologY (HaPPy) is a reference set (subset) of SNOMED CT concepts that represents Emergency Department Presenting Problem Concepts. The ontology was empirically derived then iteratively validated by an expert consensus panel.
+
+In order to use the HaPPy Ontology, you must have a valid SNOMED CT license.
+
+HaPPy Ontology Download Page: https://people.csail.mit.edu/shorng/
+
+
 concepts.tsv	Tab delimited list of snomed concept ID's and a default description for each concept
 
 CCList.tsv	Tab delimited list of descriptions mapped to their default description and conceptID

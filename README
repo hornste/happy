@@ -4,14 +4,14 @@ In order to use the HaPPy Ontology, you must have a valid SNOMED CT license.
 
 HaPPy Ontology Download Page: https://people.csail.mit.edu/shorng/
 
-license.txt License Agreement
-concepts.tsv	Tab delimited list of snomed concept ID's and a default description for each concept
+license.txt     License Agreement
+concepts.tsv	  Tab delimited list of snomed concept ID's and a default description for each concept
 
-CCList.tsv	Tab delimited list of descriptions mapped to their default description and conceptID
+CCList.tsv	  Tab delimited list of descriptions mapped to their default description and conceptID
 
-QAList.tsv	Tab delimited list of terms used in retrospective analysis mapped to their conceptID. These terms aren't used in live production. For example, misspellings are included in this list that we want to include in our retrospective analysis, but do not want to display to users
+QAList.tsv	  Tab delimited list of terms used in retrospective analysis mapped to their conceptID. These terms aren't used in live production. For example, misspellings are included in this list that we want to include in our retrospective analysis, but do not want to display to users
 
-relationship.tsv	Tab delimited list of child-parent relationships between concepts.
+relationship.tsv	  Tab delimited list of child-parent relationships between concepts.
 
 
 default descriptions will change from time to time, so always use conceptID's, not the actual text.
